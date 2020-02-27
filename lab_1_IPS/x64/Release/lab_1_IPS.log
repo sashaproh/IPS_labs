@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\DRAG\Desktop\lab_1_IPS\main.cpp(17): warning #3947: "_Cilk_for" has been deprecated, and will be removed in a future release.  Please refer to release notes for details and recommended alternatives
+      cilk_for(long i = 0; i < size; ++i)
+      ^
+  
+C:\Users\DRAG\Desktop\lab_1_IPS\main.cpp(49): warning #3946: "_Cilk_spawn" has been deprecated, and will be removed in a future release.  Please refer to release notes for details and recommended alternatives
+        cilk_spawn ParallelSort(begin, middle);
+        ^
+  
+  lab_1_IPS.vcxproj -> C:\Users\DRAG\Desktop\lab_1_IPS\x64\Release\lab_1_IPS.exe

@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\DRAG\Desktop\IPS_individual\main.cpp(29): warning #3947: "_Cilk_for" has been deprecated, and will be removed in a future release.  Please refer to release notes for details and recommended alternatives
+      cilk_for(size_t i = 0; i < N; ++i)
+      ^
+  
+  IPS_individual.vcxproj -> C:\Users\DRAG\Desktop\IPS_individual\x64\Release\IPS_individual.exe
